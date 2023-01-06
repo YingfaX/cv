@@ -81,7 +81,7 @@ const config = {
     {
       title: 'Recurrent events modeling based on a reflected Brownian motion with application to hypoglycemia',
       time: '2022 (Working Paper)',
-      authors: 'Xie, Y., Fu, H., Pozdnyakov, V., and Yan, J.',
+      authors: 'Xie, Y., Fu, H., Huang, Y., Pozdnyakov, V., and Yan, J.',
       description: 'Proposed to model hypoglycemic events with the first hitting time (FHT) model of reflected Brownian motion'
     },
   ],
